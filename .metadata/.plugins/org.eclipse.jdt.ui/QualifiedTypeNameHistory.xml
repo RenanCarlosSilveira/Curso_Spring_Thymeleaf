@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Departamento"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.service.DepartamentoService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.dao.DepartamentoDao"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.service.FuncionarioService"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.dao.FuncionarioDao"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Funcionario"/>
+</qualifiedTypeNameHistroy>
