@@ -1,0 +1,7 @@
+package com.renan.curso.boot.dao;
+
+import com.renan.curso.boot.domain.Departamento;
+
+public class DepartamentoDaoImpl extends AbstractDao<Departamento, Long> implements DepartamentoDao{
+
+}

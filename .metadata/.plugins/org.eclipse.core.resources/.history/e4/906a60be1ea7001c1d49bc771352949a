@@ -1,0 +1,5 @@
+package com.renan.curso.boot.domain;
+
+public class Endereco extends AbstractEntity<Long> {
+
+}

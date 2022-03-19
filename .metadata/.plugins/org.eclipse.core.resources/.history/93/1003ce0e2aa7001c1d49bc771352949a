@@ -1,0 +1,5 @@
+package com.renan.curso.boot.dao;
+
+public class CargoDaoImpl extends AbstractDao<Cargo, Long> {
+
+}

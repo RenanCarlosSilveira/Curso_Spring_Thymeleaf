@@ -1,0 +1,5 @@
+package com.renan.curso.boot.dao;
+
+public class CardoDaoImpl extends AbstractDao<T, PK> {
+
+}
