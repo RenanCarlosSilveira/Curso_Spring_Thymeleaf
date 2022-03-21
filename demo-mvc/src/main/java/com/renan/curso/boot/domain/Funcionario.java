@@ -5,24 +5,27 @@ import java.time.LocalDate;
 
 import javax.persistence.*;
 
+@SuppressWarnings("serial")
 @Entity
 @Table(name = "FUNCIONARIOS")
 public class Funcionario extends AbstractEntity<Long> {
 
 	@Column(nullable = false, unique = true)
 	private String nome;
+	
 	@Column(nullable = false, columnDefinition = "DECIMAL(7,2) DEFAULT 0.00")
 	private BigDecimal salario;
-
-	@Column(name = "data_entrada", nullable = false, columnDefinition = "DATE")
+	
+	@Column(name= "data_entrada", nullable = false, columnDefinition = "DATE")
 	private LocalDate dataEntrada;
-
+	
 	@Column(name = "data_saida", columnDefinition = "DATE")
 	private LocalDate dataSaida;
-
+	
 	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "endereco_id_fk")
 	private Endereco endereco;
-
+	
 	@ManyToOne
 	@JoinColumn(name = "cargo_id_fk")
 	private Cargo cargo;
@@ -74,6 +77,4 @@ public class Funcionario extends AbstractEntity<Long> {
 	public void setCargo(Cargo cargo) {
 		this.cargo = cargo;
 	}
-	
-	
 }
