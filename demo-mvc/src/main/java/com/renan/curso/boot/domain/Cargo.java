@@ -6,13 +6,13 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @SuppressWarnings("serial")
 @Entity
-@Table(name = "Cargos")
-public class Cargo extends AbstractEntity <Long> {
+@Table(name = "CARGOS")
+public class Cargo extends AbstractEntity<Long> {
 
 	@Column(name = "nome", nullable = false, unique = true, length = 60)
 	private String nome;
@@ -21,8 +21,8 @@ public class Cargo extends AbstractEntity <Long> {
 	@JoinColumn(name = "id_departamento_fk")
 	private Departamento departamento;
 	
-	@OneToOne(mappedBy = "cargo")
-	private List<Funcionario> funcionario;
+	@OneToMany(mappedBy = "cargo")
+	private List<Funcionario> funcionarios;
 
 	public String getNome() {
 		return nome;
@@ -40,12 +40,11 @@ public class Cargo extends AbstractEntity <Long> {
 		this.departamento = departamento;
 	}
 
-	public List<Funcionario> getFuncionario() {
-		return funcionario;
+	public List<Funcionario> getFuncionarios() {
+		return funcionarios;
 	}
 
-	public void setFuncionario(List<Funcionario> funcionario) {
-		this.funcionario = funcionario;
-	}
-	
+	public void setFuncionarios(List<Funcionario> funcionarios) {
+		this.funcionarios = funcionarios;
+	} 	
 }
