@@ -9,7 +9,6 @@
   <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.2.20211002-1029.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
   <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20211216-0527.jar!/cache/www.w3.org/2001/xml.xsd"/>
   <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20211216-0527.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
-  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_4.13.1.202201310805.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
   <public publicId="-//WAPFORUM//DTD WML 1.1//EN" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/wml11.dtd"/>
   <public publicId="-//W3C//DTD XHTML 1.0 Strict//EN" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-strict.dtd" webURL="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
   <public publicId="-//W3C//DTD XHTML 1.0 Transitional//EN" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-transitional.dtd" webURL="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
@@ -199,4 +198,5 @@
   <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.400.v202101070609.jar!/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
   <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_2.xsd" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.400.v202101070609.jar!/dtdsAndSchemas/web-partialresponse_2_2.xsd"/>
   <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_3.xsd" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.400.v202101070609.jar!/dtdsAndSchemas/web-partialresponse_2_3.xsd"/>
+  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/C:/sts-4.13.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_4.14.0.202203131529.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
 </catalog>

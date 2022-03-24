@@ -3864,3 +3864,756 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-03-21 18:37:54,138 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-03-21 18:37:54,139 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
 2022-03-21 18:41:24,493 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-21 18:44:50,807 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 08:43:20,193 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-22 08:46:51,663 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 08:46:51,664 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 08:46:51,666 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 08:46:51,679 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 08:46:51,688 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 08:46:51,688 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 08:46:51,688 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 08:53:54,232 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 08:53:54,232 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 08:53:54,236 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 08:53:54,236 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 08:53:54,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 08:53:54,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 08:53:54,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:46:58,999 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:46:58,999 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:46:59,002 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:46:59,012 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:46:59,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:46:59,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:46:59,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:47:59,548 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:47:59,548 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:47:59,550 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:47:59,556 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:47:59,559 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:47:59,560 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:47:59,560 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:48:55,124 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:48:55,124 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:48:55,126 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:48:55,132 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:48:55,138 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:48:55,138 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:48:55,138 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:51:25,555 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:51:25,555 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:51:25,557 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:51:25,563 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:51:25,568 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:51:25,568 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:51:25,568 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:51:39,258 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:51:39,259 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:51:39,260 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:51:39,301 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:51:39,322 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:51:39,323 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:51:39,323 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:52:34,417 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:52:34,417 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:52:34,420 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:52:34,428 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:52:34,434 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:52:34,434 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:52:34,435 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:53:59,357 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:53:59,358 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:53:59,359 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:53:59,364 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:53:59,368 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:53:59,368 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:53:59,368 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:54:08,426 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:54:08,426 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:54:08,428 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:54:08,432 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:54:08,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:54:08,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:54:08,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:54:41,425 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:54:41,426 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:54:41,427 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:54:41,433 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:54:41,437 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:54:41,437 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:54:41,437 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:55:54,966 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:55:54,966 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:55:54,968 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:55:54,973 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 13:55:54,979 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:55:54,979 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:55:54,979 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 13:59:18,915 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:59:18,915 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:59:18,915 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 13:59:18,915 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 13:59:18,918 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 13:59:18,918 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 13:59:18,918 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:03:18,150 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:03:18,150 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:03:18,151 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:03:18,151 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:03:18,153 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:03:18,153 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:03:18,153 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:05:22,876 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:05:22,877 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:05:22,877 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:05:22,877 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:05:22,879 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:05:22,879 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:05:22,879 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:06:15,970 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:06:15,970 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:06:15,971 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:06:15,971 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:06:15,973 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:06:15,973 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:06:15,973 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:07:11,252 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:07:11,252 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:07:11,252 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:07:11,252 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:07:11,254 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:07:11,254 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:07:11,254 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:14:02,096 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:02,096 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:02,097 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:14:02,097 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:14:02,100 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:02,100 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:02,100 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:14:36,084 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-22 14:14:37,859 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.renan.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\pom.xml.
+2022-03-22 14:14:39,626 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2022-03-22 14:14:39,627 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 14:14:39,627 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 14:14:39,627 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2022-03-22 14:14:39,842 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-03-22 14:14:40,411 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:40,411 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:40,412 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:14:40,422 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 14:14:40,449 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:40,449 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:40,449 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:14:50,927 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:50,927 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:50,928 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:14:50,928 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:14:50,931 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:14:50,931 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:14:50,931 [Worker-70: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:15:26,809 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:15:26,809 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:15:26,810 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:15:26,810 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:15:26,812 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:15:26,812 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:15:26,813 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:16:08,113 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:16:08,113 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:16:08,113 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:16:08,113 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:16:08,115 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:16:08,116 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:16:08,116 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:16:39,121 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:16:39,122 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:16:39,122 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:16:39,122 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:16:39,125 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:16:39,125 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:16:39,125 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:18:58,377 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:18:58,377 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:18:58,378 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:18:58,378 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:18:58,379 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:18:58,379 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:18:58,379 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:19:34,546 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:19:34,546 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:19:34,546 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:19:34,546 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:19:34,549 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:19:34,549 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:19:34,549 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:24:09,005 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:24:09,005 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:24:09,005 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:24:09,005 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:24:09,009 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:24:09,009 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:24:09,009 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:26:14,367 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:26:14,367 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:26:14,368 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:26:14,368 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:26:14,370 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:26:14,370 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:26:14,370 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 14:26:26,532 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:26:26,532 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:26:26,532 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 14:26:26,532 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 14:26:26,534 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 14:26:26,534 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 14:26:26,534 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:16:41,824 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:16:41,824 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:16:41,825 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:16:41,825 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:16:41,827 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:16:41,827 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:16:41,827 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:16:53,699 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 15:22:20,764 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:22:20,765 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:22:20,769 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:22:20,786 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:22:20,793 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:22:20,793 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:22:20,794 [Worker-27: Launching demo-mvc - DemoMvcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:22:44,223 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:22:44,223 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:22:44,225 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:22:44,226 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:22:44,228 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:22:44,228 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:22:44,228 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:23:34,758 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 15:23:45,226 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-22 15:23:45,703 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.renan.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\pom.xml.
+2022-03-22 15:23:46,195 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2022-03-22 15:23:46,196 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:23:46,196 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:23:46,197 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2022-03-22 15:23:46,709 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-22 15:23:47,439 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:23:47,439 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:23:47,442 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:23:47,454 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:23:47,482 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:23:47,482 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:23:47,482 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:23:58,191 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:23:58,191 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:23:58,192 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:23:58,194 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:23:58,197 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:23:58,197 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:23:58,197 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:24:12,681 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-22 15:24:12,970 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.renan.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\pom.xml.
+2022-03-22 15:24:13,299 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2022-03-22 15:24:13,299 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:24:13,299 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:24:13,300 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2022-03-22 15:24:13,545 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-22 15:24:14,022 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:24:14,023 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:24:14,023 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:24:14,033 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:24:14,061 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:24:14,061 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:24:14,061 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:36:12,740 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:36:12,741 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:36:12,742 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:36:12,743 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:36:12,746 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:36:12,746 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:36:12,746 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:36:50,253 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 15:36:52,840 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:36:52,840 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:36:52,843 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:36:52,852 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:36:52,875 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:36:52,875 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:36:52,875 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:37:20,363 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-22 15:37:20,722 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.renan.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\pom.xml.
+2022-03-22 15:37:21,174 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2022-03-22 15:37:21,174 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:37:21,175 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:37:21,176 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2022-03-22 15:37:21,432 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-22 15:37:21,947 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:21,947 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:21,947 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:37:21,957 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:37:21,985 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:21,985 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:21,985 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:37:30,248 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:30,248 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:30,248 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:37:30,251 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:37:30,279 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:30,279 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:30,279 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:37:44,612 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-22 15:37:44,832 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.renan.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\pom.xml.
+2022-03-22 15:37:45,211 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2022-03-22 15:37:45,211 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:37:45,212 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2022-03-22 15:37:45,212 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2022-03-22 15:37:45,408 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-22 15:37:45,823 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:45,823 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:45,824 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:37:45,833 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:37:45,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:37:45,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:37:45,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:39:11,911 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:39:11,911 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:39:11,913 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:39:11,914 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:39:11,918 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:39:11,918 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:39:11,918 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:42:14,215 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:42:14,215 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:42:14,215 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:42:14,216 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:42:14,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:42:14,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:42:14,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:49:15,588 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 15:55:06,088 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 15:55:13,534 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:55:13,536 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:55:13,540 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:55:13,558 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 15:55:13,585 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:55:13,585 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:55:13,585 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:55:13,900 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: full
+2022-03-22 15:55:13,914 [Worker-1: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Checking project: demo-mvc
+2022-03-22 15:55:57,429 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:55:57,429 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:55:57,430 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 15:55:57,431 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 15:55:57,434 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 15:55:57,435 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 15:55:57,435 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 15:55:57,436 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 15:55:57,451 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/cadastro.html
+2022-03-22 15:55:57,452 [Worker-11: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-22 15:56:01,593 [main] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Scanning for dialect help files on project dependencies
+2022-03-22 15:56:01,791 [pool-13-thread-3] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Java8Time.xml
+2022-03-22 15:56:01,886 [pool-13-thread-10] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: LayoutDialect.xml
+2022-03-22 15:56:01,914 [pool-13-thread-6] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Standard-Dialect.xml
+2022-03-22 16:01:20,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 16:01:20,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 16:01:20,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 16:01:20,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 16:01:20,896 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 16:01:20,896 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 16:01:20,896 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 16:01:20,897 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 16:01:20,898 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/cadastro.html
+2022-03-22 16:01:20,898 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-22 16:36:18,001 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 16:36:18,001 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 16:36:18,004 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 16:36:18,010 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 16:36:18,015 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 16:36:18,015 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 16:36:18,016 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 16:36:18,018 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 16:36:18,019 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-22 16:36:18,019 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-22 16:36:18,019 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-22 16:36:18,019 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-22 16:36:18,019 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-22 16:36:18,020 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-22 16:36:18,020 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-22 16:36:18,021 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-22 16:36:18,021 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-22 16:36:18,021 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-22 16:36:18,021 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-22 16:36:18,021 [Worker-37: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-22 21:29:24,604 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 21:59:45,956 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 21:59:45,958 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 21:59:45,960 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 21:59:45,980 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 21:59:45,986 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 21:59:45,986 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 21:59:45,986 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 21:59:47,307 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 21:59:47,571 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: full
+2022-03-22 21:59:47,594 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Checking project: demo-mvc
+2022-03-22 21:59:49,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 21:59:49,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 21:59:49,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 21:59:49,692 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-22 21:59:49,697 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 21:59:49,697 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 21:59:49,697 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 21:59:49,699 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 21:59:49,710 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-22 21:59:49,711 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-22 21:59:49,712 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-22 21:59:49,713 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-22 21:59:49,713 [Worker-20: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-22 22:02:27,435 [main] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Scanning for dialect help files on project dependencies
+2022-03-22 22:02:27,556 [pool-14-thread-9] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Java8Time.xml
+2022-03-22 22:02:27,632 [pool-14-thread-8] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: LayoutDialect.xml
+2022-03-22 22:02:27,635 [pool-14-thread-8] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Standard-Dialect.xml
+2022-03-22 22:03:24,784 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 22:03:24,784 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 22:03:24,785 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 22:03:24,785 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 22:03:24,789 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 22:03:24,789 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 22:03:24,789 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 22:03:24,790 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 22:03:24,790 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/cadastro.html
+2022-03-22 22:03:24,790 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-22 22:07:40,836 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 22:07:40,836 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 22:07:40,837 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-22 22:07:40,837 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-22 22:07:40,840 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-22 22:07:40,840 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-22 22:07:40,840 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-22 22:07:40,841 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-22 22:07:40,841 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-22 22:07:40,841 [Worker-17: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 10:24:01,277 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-23 10:26:14,600 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:26:14,601 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:26:14,604 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 10:26:14,630 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 10:26:14,636 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:26:14,636 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:26:14,636 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 10:26:16,056 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 10:26:16,093 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 10:26:16,097 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 10:26:16,097 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 10:26:16,097 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 10:26:16,098 [Worker-2: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 10:27:04,077 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:27:04,078 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:27:04,081 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 10:27:04,088 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 10:27:04,094 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:27:04,094 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:27:04,094 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 10:27:04,098 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 10:27:04,099 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 10:27:04,099 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 10:27:04,099 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 10:27:04,099 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 10:27:04,100 [Worker-5: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 10:56:59,604 [main] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Scanning for dialect help files on project dependencies
+2022-03-23 10:56:59,724 [pool-16-thread-10] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Java8Time.xml
+2022-03-23 10:56:59,823 [pool-16-thread-6] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: LayoutDialect.xml
+2022-03-23 10:56:59,830 [pool-16-thread-9] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Standard-Dialect.xml
+2022-03-23 10:57:55,283 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:57:55,283 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:57:55,285 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 10:57:55,286 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 10:57:55,289 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 10:57:55,289 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 10:57:55,289 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 10:57:55,290 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 10:57:55,290 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-23 10:57:55,291 [Worker-25: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:01:16,272 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:01:16,273 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:01:16,273 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 11:01:16,273 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:01:16,277 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:01:16,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:01:16,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:01:16,278 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:01:16,279 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-23 11:01:16,279 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:16:37,612 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:16:37,614 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:16:37,616 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:16:37,625 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 11:16:37,629 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:16:37,629 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:16:37,629 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:16:37,632 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:16:37,633 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 11:16:37,634 [Worker-26: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 11:17:39,597 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:17:39,598 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:17:39,600 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:17:39,606 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 11:17:39,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:17:39,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:17:39,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:17:39,613 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 11:17:39,614 [Worker-24: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 11:18:43,539 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:18:43,539 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:18:43,541 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:18:43,548 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 11:18:43,552 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:18:43,552 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:18:43,552 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:18:43,554 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 11:18:43,555 [Worker-27: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 11:19:26,997 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:19:26,997 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:19:26,999 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:19:27,007 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2022-03-23 11:19:27,011 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:19:27,011 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:19:27,011 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 11:19:27,014 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 11:19:27,015 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 11:19:27,015 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 11:19:27,015 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 11:19:27,015 [Worker-23: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 11:20:40,637 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:20:40,637 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:20:40,637 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 11:20:40,637 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:20:40,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:20:40,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:20:40,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:20:40,642 [Worker-30: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:20:40,642 [Worker-30: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/modal.html
+2022-03-23 11:20:40,642 [Worker-30: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-23 11:28:29,430 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:28:29,430 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:28:29,430 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 11:28:29,431 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 11:28:29,434 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 11:28:29,434 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 11:28:29,434 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 11:28:29,434 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 11:28:29,436 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/modal.html
+2022-03-23 11:28:29,436 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-23 19:29:50,699 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-23 20:30:03,728 [main] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Scanning for dialect help files on project dependencies
+2022-03-23 20:30:03,928 [pool-14-thread-9] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Java8Time.xml
+2022-03-23 20:30:04,039 [pool-14-thread-10] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: LayoutDialect.xml
+2022-03-23 20:30:04,048 [pool-14-thread-1] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Standard-Dialect.xml
+2022-03-23 20:38:05,273 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:38:05,273 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:38:05,278 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:38:05,310 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2022-03-23 20:38:05,328 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:38:05,328 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:38:05,328 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:38:06,057 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:38:06,058 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:38:06,058 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:38:06,066 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2022-03-23 20:38:06,077 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:38:06,077 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:38:06,077 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:38:06,128 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:38:06,148 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-23 20:38:06,154 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/modal.html
+2022-03-23 20:38:06,154 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/layout.html
+2022-03-23 20:38:06,158 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 20:38:06,158 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-23 20:38:06,160 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 20:38:06,161 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 20:38:06,164 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 20:38:06,164 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 20:38:06,164 [Worker-16: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 20:40:51,348 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:40:51,349 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:40:51,350 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:40:51,351 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:40:51,355 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:40:51,355 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:40:51,355 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:40:51,358 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:40:51,359 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/layout.html
+2022-03-23 20:40:51,360 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 20:41:40,491 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:41:40,491 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:41:40,492 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:41:40,492 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:41:40,498 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:41:40,498 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:41:40,498 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:41:40,498 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:41:40,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-23 20:41:40,499 [Worker-18: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 20:43:30,592 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:43:30,593 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:43:30,593 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:43:30,593 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:43:30,597 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:43:30,597 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:43:30,597 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:43:30,598 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:43:30,598 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert].html
+2022-03-23 20:43:30,598 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert].html
+2022-03-23 20:54:51,547 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:54:51,547 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:54:51,547 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:54:51,548 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:54:51,550 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:54:51,550 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:54:51,550 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:54:51,551 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:54:51,552 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert].html
+2022-03-23 20:54:51,552 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert].html
+2022-03-23 20:58:00,596 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:58:00,596 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:58:00,596 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:58:00,597 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:58:00,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:58:00,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:58:00,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:58:00,601 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:58:00,601 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/cadastro.html
+2022-03-23 20:58:00,601 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 20:58:15,098 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:58:15,098 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:58:15,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 20:58:15,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 20:58:15,103 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 20:58:15,103 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 20:58:15,103 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 20:58:15,104 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 20:58:15,104 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert.html
+2022-03-23 20:58:15,104 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert].html
+2022-03-23 21:02:05,019 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:02:05,019 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:02:05,022 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 21:02:05,031 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2022-03-23 21:02:05,037 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:02:05,037 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:02:05,037 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 21:02:05,040 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 21:02:05,040 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/departamento/lista.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 21:02:05,041 [Worker-0: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 21:02:46,937 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:02:46,937 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:02:46,939 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 21:02:46,946 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2022-03-23 21:02:46,953 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:02:46,953 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:02:46,953 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 21:02:46,956 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-23 21:02:46,957 [Worker-19: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
+2022-03-23 21:07:40,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:07:40,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:07:40,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 21:07:40,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 21:07:40,898 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:07:40,898 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:07:40,899 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 21:07:40,899 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 21:07:40,899 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert.html
+2022-03-23 21:07:40,899 [Worker-29: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert.html
+2022-03-23 21:09:21,524 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:09:21,524 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:09:21,524 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-23 21:09:21,524 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-23 21:09:21,527 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 21:09:21,527 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-23 21:09:21,527 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-23 21:09:21,527 [Worker-31: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-23 21:09:21,528 [Worker-31: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert.html
+2022-03-23 21:09:21,528 [Worker-31: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert.html
