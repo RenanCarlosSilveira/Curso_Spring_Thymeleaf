@@ -40,8 +40,15 @@ public class CargoServiceImpl implements CargoService {
 
 	@Override @Transactional(readOnly=true)
 	public List<Cargo> buscarTodos() {
-		// TODO Auto-generated method stub
 		return dao.findAll();
 		}
+
+	@Override
+	public boolean cargoTemFuncionarios(Long id) {
+		if(buscarPorId(id).getFuncionarios().isEmpty()) {
+			return false;
+		}
+		return true;
+	}
 
 }

@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="com.renan.curso.boot.service.DepartamentoService"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.dao.DepartamentoDao"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.service.FuncionarioService"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.dao.FuncionarioDao"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Funcionario"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Departamento"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.web.controller.CargoController"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.service.CargoService"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Cargo"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.core.convert.converter.Converter"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Departamento"/>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.ISBN"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.service.DepartamentoService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
 </qualifiedTypeNameHistroy>
