@@ -5157,3 +5157,26 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-03-24 14:07:31,208 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
 2022-03-24 14:07:31,209 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/sidebar.html
 2022-03-24 14:07:31,209 [Worker-28: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-24 14:26:55,077 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-24 14:27:21,968 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-24 14:27:21,969 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-24 14:27:21,972 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-24 14:27:22,001 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2022-03-24 14:27:22,009 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-24 14:27:22,009 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-24 14:27:22,009 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git_Repos\Curso_Spring_Thymeleaf\demo-mvc\src\test\resources
+2022-03-24 14:27:22,323 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating HTML files for Thymeleaf attribute processors.  Build kind: auto
+2022-03-24 14:27:22,356 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/src/main/resources/templates/fragments/alert.html
+2022-03-24 14:27:22,361 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/cadastro.html
+2022-03-24 14:27:22,361 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/cargo/lista.html
+2022-03-24 14:27:22,361 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/cadastro.html
+2022-03-24 14:27:22,362 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/departamento/lista.html
+2022-03-24 14:27:22,362 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/alert.html
+2022-03-24 14:27:22,362 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/footer.html
+2022-03-24 14:27:22,362 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/header.html
+2022-03-24 14:27:22,362 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/modal.html
+2022-03-24 14:27:22,363 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/fragments/sidebar.html
+2022-03-24 14:27:22,363 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/cadastro.html
+2022-03-24 14:27:22,363 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/funcionario/lista.html
+2022-03-24 14:27:22,363 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/home.html
+2022-03-24 14:27:22,363 [Worker-3: Building] INFO  o.t.e.e.builder.ThymeleafBuilder - Unvalidating resource: /demo-mvc/target/classes/templates/layout.html
