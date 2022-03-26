@@ -14,11 +14,9 @@
     <fullyQualifiedTypeName name="org.hibernate.validator.constraints.ISBN"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.service.DepartamentoService"/>
     <fullyQualifiedTypeName name="java.lang.Long"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.service.FuncionarioService"/>
-    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Funcionario"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
     <fullyQualifiedTypeName name="com.renan.curso.boot.domain.UF"/>
     <fullyQualifiedTypeName name="org.springframework.core.convert.converter.Converter"/>
@@ -29,4 +27,6 @@
     <fullyQualifiedTypeName name="org.springframework.format.annotation.DateTimeFormat"/>
     <fullyQualifiedTypeName name="org.springframework.format.annotation.DateTimeFormat.ISO"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
+    <fullyQualifiedTypeName name="com.renan.curso.boot.domain.Funcionario"/>
 </qualifiedTypeNameHistroy>
